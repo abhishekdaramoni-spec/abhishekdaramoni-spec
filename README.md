@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekdaramoni-spec](https://github.com/abhishekdaramoni-spec)
 
-- 📫 How to reach me **https://www.linkedin.com/in/abhishek-daramoni-7137b6348/**
+- 📫 How to reach me **abhishekdaramoni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
